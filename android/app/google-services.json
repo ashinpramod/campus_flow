@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831790945336",
+    "project_id": "role-based-auth-ce940",
+    "storage_bucket": "role-based-auth-ce940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831790945336:android:0b114318862b2e154182cd",
+        "android_client_info": {
+          "package_name": "com.campus.campus_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8cyp62bNxUI_XdfbFTpyDgI5SRDQgt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
